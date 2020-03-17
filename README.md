@@ -18,7 +18,7 @@ Daftar nama-nama
 ## [Glints Academy](https://academy.glints.com/)
 Click Here For More Information
 
-![](https://userimg-bee.customeriomail.com/images/client-env-71217/academyglints.png)
+![](./img/glints.png)
 
 
 <!-- Span berguna untuk mengisi 1 baris kesamping -->
