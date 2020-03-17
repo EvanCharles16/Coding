@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+
+.header{
+    background-color: white;
+}
+
+.header h1{
+    color: red;
+    text-align: center;
+}
+
+.content img{
+    height: 20%;
+    width: 20%;
+}
+
+.content{
+    background-color: #fff;
+}
+
+.footer{
+    background-color: #fff;
+}
